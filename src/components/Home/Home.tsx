@@ -210,7 +210,7 @@ export const Home: FC<Props> = memo(function Home(props = {}) {
               </div>
             </div>
             <div className={classes.frame4273199004}>
-              <div className={classes.title11}>Secured and 100% Privacy</div>
+              <div className={classes.title11}>Open source</div>
               <div className={classes.title12}>
               Transparency is the one the core foundation of our ecosystem. Being open source is inevitable for all of us building here.
               </div>
@@ -221,7 +221,7 @@ export const Home: FC<Props> = memo(function Home(props = {}) {
       <div className={classes.frame4273198975}>
         <div className={classes.title13}>
           <p className={classes.labelWrapper4}>
-            <span className={classes.label4}>Staking Made</span>
+            <span className={classes.label4}>We make it</span>
             <span className={classes.label5}> Easy</span>
           </p>
         </div>
@@ -264,8 +264,8 @@ export const Home: FC<Props> = memo(function Home(props = {}) {
       </div>
       <div className={classes.title16}>
         <p className={classes.labelWrapper5}>
-          <span className={classes.label6}>How it </span>
-          <span className={classes.label7}>wokrs?</span>
+          <span className={classes.label6}>Token mint</span>
+          <span className={classes.label7}>process?</span>
         </p>
       </div>
       <div className={classes.frame4273199022}>
